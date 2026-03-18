@@ -1,2 +1,2 @@
 # FreeCodeCamp_Data_Analysis_with_Python
-![Certificate](Data_Analysis_with_Python.PNG)
+![Certificate](Data_Analysis_with_Python.png)
